@@ -1,0 +1,10 @@
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\bin\Debug\Project 3.exe.config
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\bin\Debug\Project 3.exe
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\bin\Debug\Project 3.pdb
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csprojResolveAssemblyReference.cache
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\obj\Debug\Project_3.frmProjectThree.resources
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csproj.GenerateResource.cache
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csproj.CoreCompileInputs.cache
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\obj\Debug\Project 3.exe
+C:\Users\mrjay\Desktop\CST117_Project_1-master\FileManipulation\FileManipulation\obj\Debug\Project 3.pdb

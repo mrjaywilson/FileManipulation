@@ -1,0 +1,30 @@
+C:\Users\mrjay\source\repos\Project 3\Project 3\bin\Debug\Project 3.exe.config
+C:\Users\mrjay\source\repos\Project 3\Project 3\bin\Debug\Project 3.exe
+C:\Users\mrjay\source\repos\Project 3\Project 3\bin\Debug\Project 3.pdb
+C:\Users\mrjay\source\repos\Project 3\Project 3\obj\Debug\Project 3.csprojResolveAssemblyReference.cache
+C:\Users\mrjay\source\repos\Project 3\Project 3\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\mrjay\source\repos\Project 3\Project 3\obj\Debug\Project 3.csproj.GenerateResource.cache
+C:\Users\mrjay\source\repos\Project 3\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\mrjay\source\repos\Project 3\Project 3\obj\Debug\Project 3.exe
+C:\Users\mrjay\source\repos\Project 3\Project 3\obj\Debug\Project 3.pdb
+C:\Users\mrjay\source\repos\Project 3\Project 3\obj\Debug\Project_3.frmProjectThree.resources
+E:\Week 3\Project 3\Project 3\bin\Debug\Project 3.exe.config
+E:\Week 3\Project 3\Project 3\bin\Debug\Project 3.exe
+E:\Week 3\Project 3\Project 3\bin\Debug\Project 3.pdb
+E:\Week 3\Project 3\Project 3\obj\Debug\Project 3.csprojResolveAssemblyReference.cache
+E:\Week 3\Project 3\Project 3\obj\Debug\Project_3.frmProjectThree.resources
+E:\Week 3\Project 3\Project 3\obj\Debug\Project_3.Properties.Resources.resources
+E:\Week 3\Project 3\Project 3\obj\Debug\Project 3.csproj.GenerateResource.Cache
+E:\Week 3\Project 3\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+E:\Week 3\Project 3\Project 3\obj\Debug\Project 3.exe
+E:\Week 3\Project 3\Project 3\obj\Debug\Project 3.pdb
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\bin\Debug\Project 3.exe.config
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\bin\Debug\Project 3.exe
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\bin\Debug\Project 3.pdb
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\obj\Debug\Project 3.csprojResolveAssemblyReference.cache
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\obj\Debug\Project_3.frmProjectThree.resources
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\obj\Debug\Project 3.csproj.GenerateResource.cache
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\obj\Debug\Project 3.exe
+C:\Users\mrjay\Desktop\USB\Week 3\Project 3\Project 3\obj\Debug\Project 3.pdb
